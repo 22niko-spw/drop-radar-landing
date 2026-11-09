@@ -1,0 +1,16 @@
+# Visuels de la landing Drop Radar
+
+Les marques, les produits, les publications, les prix, les compositions, les quantités et les dates de sortie sont fictifs et servent à démontrer l’interface. Les photographies et images générées sont des illustrations : elles ne représentent pas des produits commercialisés par ces marques fictives. Aucun photographe, modèle ou titulaire de marque réelle n’est affilié au projet.
+
+## Photographies streetwear utilisées
+
+Les six photographies actuelles proviennent du prototype, où elles ont été téléchargées le 24 septembre 2026. Les cinq fichiers Pexels y ont été redimensionnés à 1 200 pixels maximum ; les recadrages d’affichage sont gérés par le CSS. Cet export conserve sans modification les copies réduites et compressées de l’artefact publié, dans `assets/images/`. Les quatre fichiers `*-thumbnail.jpg` sont les vignettes correspondantes utilisées dans le radar.
+
+- `assets/images/echo-parade-hoodie.jpg` — Hoodie gris anthracite chiné, ample, à capuche et poche kangourou. Khalid Boutchich. [Photographie Pexels](https://www.pexels.com/photo/a-man-in-gray-hoodie-6215393/), [source CDN](https://images.pexels.com/photos/6215393/pexels-photo-6215393.jpeg).
+- `assets/images/coton-brut-cargo.jpg` et `assets/images/coton-brut-cargo-thumbnail.jpg` — Cargo beige sable à grandes poches, porté avec un sweat vert dans un parking en hauteur. Jonathan Valdes. [Photographie Pexels — Man Standing on Arrow at Parking Lot](https://www.pexels.com/photo/man-standing-on-arrow-at-parking-lot-21050242/), [source CDN](https://images.pexels.com/photos/21050242/pexels-photo-21050242.jpeg).
+- `assets/images/dune-studio-baggy-jeans.jpg` — Jean baggy bleu délavé, poches cargo et finitions effilochées. Pietro Henricky. [Photographie Pexels](https://www.pexels.com/photo/trendy-denim-fashion-with-baggy-jeans-35568704/), [source CDN](https://images.pexels.com/photos/35568704/pexels-photo-35568704.jpeg).
+- `assets/images/bitume-club-sneakers.jpg` et `assets/images/bitume-club-sneakers-thumbnail.jpg` — Baskets montantes de basketball noires et blanches, détails rouges. Terrance Barksdale. [Photographie Pexels](https://www.pexels.com/photo/black-and-white-jordan-in-black-surface-8987248/), [source CDN](https://images.pexels.com/photos/8987248/pexels-photo-8987248.jpeg). Des logos Jordan sont visibles sur la photographie ; leur présence est illustrative et n’indique aucune affiliation ni collaboration.
+- `assets/images/fil-rouge-shoulder-bag.jpg` et `assets/images/fil-rouge-shoulder-bag-thumbnail.jpg` — Sac bandoulière en denim noir avec badges et poches plaquées, porté avec un tee-shirt rayé. Serghei Niculaev. [Photographie Pexels](https://www.pexels.com/photo/fashionable-streetwear-with-black-crossbody-bag-36209790/), [source CDN](https://images.pexels.com/photos/36209790/pexels-photo-36209790.jpeg).
+- `assets/images/atelier-nord-overshirt.jpg` et `assets/images/atelier-nord-overshirt-thumbnail.jpg` — Surchemise à carreaux noirs et blancs. Good Faces. [Photographie Unsplash](https://unsplash.com/photos/man-in-black-and-white-plaid-button-up-shirt-4IV9LgbypXA), [source CDN](https://images.unsplash.com/photo-1613418906921-1b949bf38d5f).
+
+Licences des bibliothèques : [Pexels License](https://www.pexels.com/license/) et [Unsplash License](https://unsplash.com/license).
